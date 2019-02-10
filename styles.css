@@ -1,10 +1,39 @@
 body {
 	background-color: black;
 }
-h1 {
-	color: white;
+h1.9L {
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+	width: 600px;
+	font-family: 'Times New Roman', Times, serif;
+	font-style: italic;
+	font-weight: 150;
+	font-variant-ligatures: common-ligatures;
+	font-size: 2rem;
+	letter-spacing: 1px;
+	color: white;	
 }
-img {
+p.9L_white {
+	width: 600px;
+	font-family: 'Times New Roman', Times, serif;
+	font-style: italic;
+	font-weight: 150;
+	font-variant-ligatures: common-ligatures;
+	font-size: 2rem;
+	letter-spacing: 1px;
+	color: white;	
+}
+p.9L_red {
+	width: 600px;
+	font-family: 'Times New Roman', Times, serif;
+	font-style: italic;
+	font-weight: 150;
+	font-variant-ligatures: common-ligatures;
+	font-size: 2rem;
+	letter-spacing: 1px;
+	color: red;	
+}
+img.logo {
 	display: block;
 	margin-left: 0 auto;
 	margin-right: 0 auto;
