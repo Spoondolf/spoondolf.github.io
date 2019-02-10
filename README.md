@@ -1,4 +1,5 @@
 # Foundry Canvas - with Spoondolf
-a sandbox of a website, I'll tellya.
+####a sandbox for some websites, I'll tellya.
 ## Current Projects:
->[**Nine Lives Productions**](https://ninelivesproduction.com)
+>[**Nine Lives Productions**](https://ninelivesproduction.com) :leopard:
+:tiger2:
